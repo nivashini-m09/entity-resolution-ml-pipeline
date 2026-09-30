@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Heavy Datasets & Outputs
+dataset/
+output/
+*.zip
+
+# Virtual Environment
+venv/
+.env
